@@ -2,7 +2,7 @@
 
 This is the companion code repository for [Modern PHP](http://shop.oreilly.com/product/0636920033868.do) by Josh Lockhart (O’Reilly).
 
-## About the Book
+## About the Book 
 
 The PHP language is different than you remember. No longer just about procedural code and monolithic frameworks, PHP has experienced a renaissance to become a full-featured, mature language with object-orientation, namespaces, and a growing collection of reusable component libraries.
 
